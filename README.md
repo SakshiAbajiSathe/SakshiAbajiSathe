@@ -1,6 +1,23 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
+<!-- Typing Header -->
+<p align="center">
+  <a href="https://github.com/SakshiAbajiSathe">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com/?lines=MCA+Student🎓;Frontend+Developer+💻;React+%7C+HTML+%7C+CSS+%7C+JavaScript;Web+Application+Developer🌐&font=Poppins&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=42"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+<!-- Second Typing Line -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=I+love+building+user-friendly+interfaces+🎨;Turning+designs+into+working+web+apps+🚀;Learning+Advanced+Frontend+Development+⚡&font=Poppins&center=true&width=900&height=100&color=58a6ff&vCenter=true&size=30"
+    alt="Typing SVG"
+  />
+</p>
 
 # 💫 About Me:
 🚀 I’m currently working on<br>A Unified License Platform – one platform for Food, Driving, and Business licenses.<br>🔹 Role: Frontend Developer<br>🔹 Tech: React, HTML, CSS, JavaScript<br>✔ Frontend completed<br>⏳ Backend handled separately / in progress<br><br>🤝 I’m looking to collaborate on<br>Frontend Development projects<br>React-based web applications<br>UI/UX improvement for websites<br>Student-level and real-world frontend projects<br><br>🆘 I’m looking for help with<br>Backend integration with frontend<br>API integration<br>Full-stack project understanding (basic level)<br><br>🌱 I’m currently learning<br>Advanced Frontend Development<br>React best practices<br>Basic backend concepts (for integration)<br>Basic concepts of AI & ML (learning level only)<br><br>💬 Ask me about<br>HTML, CSS, JavaScript<br>React (Frontend)<br>Web Technologies<br>C, C++, Java (basics)<br>C# with MySQL<br>MCA projects and internship experience<br><br>⚡ Fun fact<br>I enjoy designing user-friendly interfaces and turning ideas into working UIs 🎨💻
