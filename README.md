@@ -1,42 +1,52 @@
-<!-- Matrix Background Animation -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-<!-- Typing Header -->
-<p align="center">
-  <a href="https://github.com/SakshiAbajiSathe">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=MCA+Student🎓;Frontend+Developer+💻;React+%7C+HTML+%7C+CSS+%7C+JavaScript;Web+Application+Developer🌐&font=Poppins&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=42"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
-<!-- Second Typing Line -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?lines=I+love+building+user-friendly+interfaces+🎨;Turning+designs+into+working+web+apps+🚀;Learning+Advanced+Frontend+Development+⚡&font=Poppins&center=true&width=900&height=100&color=58a6ff&vCenter=true&size=30"
-    alt="Typing SVG"
-  />
-</p>
-
-# 💫 About Me:
-🚀 I’m currently working on<br>A Unified License Platform – one platform for Food, Driving, and Business licenses.<br>🔹 Role: Frontend Developer<br>🔹 Tech: React, HTML, CSS, JavaScript<br>✔ Frontend completed<br>⏳ Backend handled separately / in progress<br><br>🤝 I’m looking to collaborate on<br>Frontend Development projects<br>React-based web applications<br>UI/UX improvement for websites<br>Student-level and real-world frontend projects<br><br>🆘 I’m looking for help with<br>Backend integration with frontend<br>API integration<br>Full-stack project understanding (basic level)<br><br>🌱 I’m currently learning<br>Advanced Frontend Development<br>React best practices<br>Basic backend concepts (for integration)<br>Basic concepts of AI & ML (learning level only)<br><br>💬 Ask me about<br>HTML, CSS, JavaScript<br>React (Frontend)<br>Web Technologies<br>C, C++, Java (basics)<br>C# with MySQL<br>MCA projects and internship experience<br><br>⚡ Fun fact<br>I enjoy designing user-friendly interfaces and turning ideas into working UIs 🎨💻
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-sathe-b91707326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sathesakshi0319@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SakshiAbajiSathe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SakshiAbajiSathe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiAbajiSathe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Hi there, I'm Sakshi Sathe 👋</h1>
+<h3 align="center">Frontend Developer | Building clean and responsive web experiences</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SakshiAbajiSathe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🚀 <b>About Me</b>  
+I'm a passionate <b>Frontend Developer</b> with a strong foundation in computer science and hands-on project experience. I enjoy creating <b>user-friendly, responsive, and visually clean web interfaces</b> using modern frontend technologies.  
+From academic projects to internship work, I focus on turning ideas into functional and engaging web applications.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+</p>
+
+🛠️ <b>Tech Stack</b>  
+
+<b>Frontend:</b><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<b>Programming Languages:</b><br>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<b>Database & Basics:</b><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/RDBMS-003B57?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+🌟 <b>What I Do</b>
+- Build responsive, mobile-first web interfaces  
+- Develop frontend applications using React  
+- Convert designs into functional web pages  
+- Focus on clean UI and better user experience  
+
+📊 <b>Most Used Languages</b>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiAbajiSathe&layout=compact&theme=tokyonight" />
+</p>
+
+📫 <b>Let’s Connect</b>  
+[📧 Email Me](mailto:sathesakshi0319@gmail.com) • 
+[💼 LinkedIn](https://www.linkedin.com/in/sakshi-sathe-b91707326) • 
+[💻 GitHub](https://github.com/SakshiAbajiSathe)
+
+---
+
+⚡ <i>“I believe great user interfaces make great applications.”</i>
